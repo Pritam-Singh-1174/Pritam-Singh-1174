@@ -1,3 +1,4 @@
+![logo](https://github.com/Pritam-Singh-1174/Pritam-Singh-1174/blob/main/WhatsApp%20Image%202024-03-29%20at%2011.30.03%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm Pritam Singh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
